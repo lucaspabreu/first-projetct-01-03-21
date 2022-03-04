@@ -1,5 +1,5 @@
 # first-projetct-01-03-21
-This is to mark the first day were I start to study.
+This is to mark the first day I started studying programming... let's see what happens in a while. (01-03/21)
 
 <!DOCTYPE html>
 <html>
