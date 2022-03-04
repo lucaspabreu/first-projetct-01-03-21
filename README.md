@@ -1,15 +1,14 @@
-# first-projetct-01-03-21
-This is to mark the first day I started studying programming... let's see what happens in a while. (01-03/21)
-
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
         <title>Universidade do Atacado</title>
-    </head>
+</head>
 
-    <body>
-        <h1>Hello guyssssss</h1>
-        <p>This is my first page</p>
-    </body>
+<body>
+    <h1>Hello guyssssss</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis at officia voluptatum. Dignissimos optio blanditiis similique, aliquam sed facere quaerat iusto doloremque repudiandae libero ratione. Pariatur adipisci quo repellat quasi expedita placeat, vitae facere nihil quis quibusdam odit autem magni consequuntur nobis, ad aspernatur dignissimos. </p>
+       <img src="/img/logo tela de entrada uda pret.png" alt="image">
+       <img src="img/logo tela de entrada uda pret.png" alt="image">
+       <img src="../project1/img/" alt="image">
+</body>
 </html>
-
